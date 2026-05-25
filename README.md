@@ -10,8 +10,9 @@ In this adventure game, players control a dog character and explore different ar
 How to run?
 - open the generated file directly in a browser:
 
+open
 ```bash
-open file:///Users/apple/CSP_python_work/hackathon_project/1/bone_hunt.html
+file:///Users/apple/CSP_python_work/hackathon_project/1/bone_hunt.html
 ```
 
 Controls
