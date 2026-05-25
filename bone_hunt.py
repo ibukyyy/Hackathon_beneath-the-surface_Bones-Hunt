@@ -1,6 +1,3 @@
-# bone_hunt.py
-# Writes a single-file HTML/CSS/JS game (Bone Hunt: Beneath the Surface)
-# and opens it in the default web browser.
 
 import os
 import webbrowser
